@@ -11,7 +11,7 @@
 
 1. Create a virtual environment and activate it.
 2. Install the dependencies via pip:
-pip install -r requirements.txt
+pip install -r req.pip
 
 
 ### Database Setup:

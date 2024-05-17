@@ -1,0 +1,76 @@
+{% extends 'main/layout.html' %}
+{% load static %}
+
+{% block title %}
+    Главная страница
+{% endblock %}
+
+{% block content %}
+    <div class="maintxt">
+    <h1>
+        Космическое агентство
+    </h1>
+    <h2>
+        Национальное управление по аэронавтике и исследованию космического пространства —
+        ведомство, относящееся к федеральному правительству США и подчиняющееся непосредственно президенту США.
+    </h2>
+    </div>
+    <div class="block-images">
+        <div class="cards">
+            <div class="card1">
+                <img src="{% static 'main/img/shuttle.svg' %}" alt="1">
+                <div class="cards-title">
+                    Спейс шаттлы — пилотируемые корабли
+                </div>
+            </div>
+            <div class="card1">
+                <img src="{% static 'main/img/telescope.svg' %}" alt="2">
+                <div class="cards-title">
+                    Лучшее телескопическое оборудование
+                </div>
+            </div>
+            <div class="card1">
+                <img src="{% static 'main/img/moon.svg' %}" alt="3">
+                <div class="cards-title">
+                    Целимся на Луну и Марс
+                </div>
+            </div>
+            <div class="card1">
+                <img src="{% static 'main/img/medal.svg' %}" alt="4">
+                <div class="cards-title">
+                    Золотая медаль по научным исследованиям
+                </div>
+            </div>
+        </div>
+        <img class="photo" src="{% static 'main/img/photo.png' %}" alt="photo">
+    </div>
+    <div class="sliderblock">
+        <h1 class="slider_title">
+            Фотографии
+        </h1>
+        <div class="sliderbig">
+                {% for slider in sliders %}
+                    <div class="sliderbig_item">
+                        <img src="{{ slider.image.url }}" alt="{{ slider.title }}">
+                    </div>
+                {% endfor %}
+        </div>
+        <div class="slider">
+            {% for slider in sliders %}
+                <div class="slider_item">
+                    <img src="{{ slider.image.url }}" alt="{{ slider.title }}">
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="overlay">
+        <div class="overlay_slider">
+            {% for slider in sliders %}
+                <div class="ovslider_item">
+                    <img src="{{ slider.image.url }}" alt="{{ slider.title }}">
+                </div>
+            {% endfor %}
+            </div>
+    <div class="close-overlay">x</div>
+    </div>
+{% endblock %}

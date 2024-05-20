@@ -15,15 +15,15 @@
 </head>
 <body>
     <header>
-            <img class="menu_mob" src="{% static 'main/img/Vector.svg' %}" alt="menu">
-            <img src="{% static 'main/img/nasa.svg' %}" alt="nasa">
+            <img class="menu_mob" style="width: 80px;"  src="{% static 'main/img/Vector.svg' %}" alt="menu">
+            <img class="nasa" style="width: 80px;" src="{% static 'main/img/nasa.svg' %}" alt="nasa">
             <div class="menu">
                 <a class="text-white text-decoration-none">ПРИЕМУЩЕСТВА</a>
                 <a class="text-white text-decoration-none">ФОТОГРАФИИ</a>
             </div>
-            <button class="signbtn">ВХОД</button>
+            <button class="signbtn" style="width: 100px;">ВХОД</button>
     </header>
-<main>
+<main class="cols">
     {% block content %}
     {% endblock %}
 </main>

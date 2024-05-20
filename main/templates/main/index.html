@@ -6,7 +6,7 @@
 {% endblock %}
 
 {% block content %}
-    <div class="maintxt">
+    <div class="col maintxt">
     <h1>
         Космическое агентство
     </h1>
@@ -15,34 +15,39 @@
         ведомство, относящееся к федеральному правительству США и подчиняющееся непосредственно президенту США.
     </h2>
     </div>
-    <div class="block-images">
-        <div class="cards">
-            <div class="card1">
+    <div class="row col">
+        <div class="cols col">
+            <div class="row">
+                <div class="card1">
                 <img src="{% static 'main/img/shuttle.svg' %}" alt="1">
                 <div class="cards-title">
                     Спейс шаттлы — пилотируемые корабли
                 </div>
             </div>
-            <div class="card1">
+            <div class="col card1">
                 <img src="{% static 'main/img/telescope.svg' %}" alt="2">
                 <div class="cards-title">
                     Лучшее телескопическое оборудование
                 </div>
             </div>
-            <div class="card1">
+            </div>
+            <div class="row">
+                <div class="col card1">
                 <img src="{% static 'main/img/moon.svg' %}" alt="3">
                 <div class="cards-title">
                     Целимся на Луну и Марс
                 </div>
             </div>
-            <div class="card1">
+            <div class="col card1">
                 <img src="{% static 'main/img/medal.svg' %}" alt="4">
                 <div class="cards-title">
                     Золотая медаль по научным исследованиям
                 </div>
             </div>
+            </div>
+
         </div>
-        <img class="photo" src="{% static 'main/img/photo.png' %}" alt="photo">
+        <img class="col photo" src="{% static 'main/img/photo.png' %}" alt="photo">
     </div>
     <div class="sliderblock">
         <h1 class="slider_title">

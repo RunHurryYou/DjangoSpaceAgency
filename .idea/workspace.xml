@@ -1,32 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6baae594-ea27-4f69-802e-ed41038fd423" name="Changes" comment="" />
+    <list default="true" id="6baae594-ea27-4f69-802e-ed41038fd423" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/88/19/88192c20-2b2f-4eeb-be08-168f9818a213/picture2.png__210x119_q85_subsampling-2_upscale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/88/19/88192c20-2b2f-4eeb-be08-168f9818a213/picture2.png__420x238_q85_subsampling-2_upscale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/bc/cc/bcccdfbc-ffbf-4f3c-9b48-598671a48233/picture5.png__210x132_q85_subsampling-2_upscale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/bc/cc/bcccdfbc-ffbf-4f3c-9b48-598671a48233/picture5.png__420x264_q85_subsampling-2_upscale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/dc/6d/dc6d7b5c-81a1-41eb-8b04-8c48cf7239be/picture3.png__160x160_q85_crop_subsampling-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/dc/6d/dc6d7b5c-81a1-41eb-8b04-8c48cf7239be/picture3.png__40x40_q85_crop_subsampling-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/filer_public_thumbnails/filer_public/dc/6d/dc6d7b5c-81a1-41eb-8b04-8c48cf7239be/picture3.png__80x80_q85_crop_subsampling-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/djangoProject2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoProject2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject2/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject2/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main/static/main/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/req.pip" beforeDir="false" afterPath="$PROJECT_DIR$/req.pip" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RunHurryYou&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RunHurryYou/DjangoSpaceAgency.git&quot;,
+    &quot;accountId&quot;: &quot;9d2018fb-83ba-4c20-a38d-3fa028a01ee7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gaHYsJfDbzMt4UwR2cHVtkU48v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Django Server.djangoProject2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/slava/PycharmProjects/djangoProject2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slava\PycharmProjects\djangoProject2" />
+      <recent name="C:\Users\slava\PycharmProjects\djangoProject2\djangoProject2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slava\PycharmProjects\djangoProject2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="djangoProject2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoProject2.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +132,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715928819215</updated>
-      <workItem from="1715928860571" duration="56000" />
+      <workItem from="1715928860571" duration="14027000" />
+      <workItem from="1716125581548" duration="645000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
